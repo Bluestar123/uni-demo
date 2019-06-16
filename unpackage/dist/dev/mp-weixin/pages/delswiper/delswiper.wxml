@@ -1,0 +1,2 @@
+<import src="./delswiper.vue.wxml" />
+    <template is="c539689e" data="{{ ...$root['0'], $root }}"/>

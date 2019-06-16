@@ -1,0 +1,33 @@
+
+@-webkit-keyframes ripple {
+100% {
+		width: 100%;
+		-webkit-transform: scaleX(12);
+		transform: scaleX(12);
+		opacity: 0.6;
+		background: gray;
+}
+}
+.detail-view{
+	position: absolute;
+	border-radius: 50%;
+	opacity: 0.9;
+    width: 100px;
+    height: 100px;
+    background: gray;
+}
+
+/*hover-class需要放在.detail-view后，否则 background会被本身的detail-view的css覆盖*/
+.detail-hover{
+    opacity: 0.9;
+    background: gray;
+    animation: ripple 0.6s linear;
+	-webkit-animation: ripple 0.6s linear;
+}
+.long{
+	width: 100%;
+	opacity: 0.6;
+	height: 100px;
+	background: gray;
+}
+

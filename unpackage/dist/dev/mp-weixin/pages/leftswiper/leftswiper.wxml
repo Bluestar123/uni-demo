@@ -1,0 +1,2 @@
+<import src="./leftswiper.vue.wxml" />
+    <template is="5be8cbc9" data="{{ ...$root['0'], $root }}"/>

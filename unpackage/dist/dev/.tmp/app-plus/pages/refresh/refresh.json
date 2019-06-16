@@ -1,0 +1,6 @@
+{
+  "onReachBottomDistance": 60,
+  "usingComponents": {
+    "uni-load-more": "/components/uni-load-more"
+  }
+}

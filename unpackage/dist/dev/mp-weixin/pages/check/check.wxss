@@ -1,0 +1,25 @@
+
+.checkbox {
+  vertical-align: middle;
+  display: inline-block;
+  position: relative;
+  padding-left: 20px;
+}
+.checkbox-hidden {
+  position: absolute;
+  left: -9999px;
+}
+.checkbox-nogroup-circle-icon {
+  position: absolute;
+  top: 50%;
+  margin-top: -9px;
+  left: 0px;
+  vertical-align: middle;
+  display: inline-block;
+  border: none;
+  width: 18px;
+  height: 18px;
+  line-height: 18px;
+}
+
+

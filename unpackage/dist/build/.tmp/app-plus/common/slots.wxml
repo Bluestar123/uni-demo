@@ -1,0 +1,17 @@
+<import src="/components/u-parse/u-parse.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate0.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate1.vue.wxml" />
+<import src="/components/u-parse/components/wxParseVideo.vue.wxml" />
+<import src="/components/u-parse/components/wxParseImg.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate2.vue.wxml" />
+<import src="/components/u-parse/components/wxParseAudio.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate3.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate4.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate5.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate6.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate7.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate8.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate9.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate10.vue.wxml" />
+<import src="/components/u-parse/components/wxParseTemplate11.vue.wxml" />
+

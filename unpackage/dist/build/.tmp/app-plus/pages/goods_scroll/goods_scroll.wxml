@@ -1,0 +1,2 @@
+<import src="./goods_scroll.vue.wxml" />
+    <template is="abb5affc" data="{{ ...$root['0'], $root }}"/>

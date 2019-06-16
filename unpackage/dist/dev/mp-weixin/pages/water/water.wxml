@@ -1,0 +1,2 @@
+<import src="./water.vue.wxml" />
+    <template is="dd65eb4e" data="{{ ...$root['0'], $root }}"/>

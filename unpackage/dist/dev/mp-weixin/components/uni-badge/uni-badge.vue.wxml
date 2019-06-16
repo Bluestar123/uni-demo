@@ -1,0 +1,1 @@
+<template name="58e79bdf"><text wx:if="{{text}}" class="_text M58e79bdf uni-badge {{inverted  ? 'uni-badge-' + type + ' uni-badge--' + size + ' uni-badge-inverted'  : 'uni-badge-' + type + ' uni-badge--' + size}}" bindtap="handleProxy" data-eventid="{{'58e79bdf-0'}}" data-comkey="{{$k}}">{{ text }}</text></template>

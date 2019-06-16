@@ -1,0 +1,1 @@
+<view bind:__l="__l"><image src="{{src}}" data-event-opts="{{[['tap',[['clickImg',['$0'],['src']]]]]}}" bindtap="__e" class="_img"></image></view>

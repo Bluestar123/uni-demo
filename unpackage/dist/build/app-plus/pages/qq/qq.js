@@ -1,0 +1,2 @@
+setCssToHead(["@charset \x22UTF-8\x22;\nwx-canvas.",[1],"data-v-13806316 { width: ",[0,750],"; height: ",[0,800],"; background: #eee; }\n",],undefined,{path:"./pages/qq/qq.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/qq/qq.wxml') } }));

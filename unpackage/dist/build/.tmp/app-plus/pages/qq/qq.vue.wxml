@@ -1,0 +1,1 @@
+<template name="4a794e82"><view class="_view data-v-13806316">dsds<canvas bindtouchend="handleProxy" bindlongtap="handleProxy" canvas-id="myCanvas" bindtouchmove="handleProxy" data-eventid="{{'4a794e82-0'}}" data-comkey="{{$k}}" class="_canvas data-v-13806316"></canvas></view></template>

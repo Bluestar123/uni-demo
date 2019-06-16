@@ -1,0 +1,1 @@
+<template name="54ddc48c"><view class="_view 54ddc48c"><button type="primary" bindtap="handleProxy" data-eventid="{{'54ddc48c-0'}}" data-comkey="{{$k}}" class="_button 54ddc48c">toParse</button></view></template>

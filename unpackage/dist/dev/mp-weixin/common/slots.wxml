@@ -1,0 +1,45 @@
+<import src="/components/uni-swipe-action/uni-swipe-action.vue.wxml" />
+<import src="/components/uni-list/uni-list.vue.wxml" />
+<import src="/components/uni-list-item/uni-list-item.vue.wxml" />
+<import src="/components/u-parse1/u-parse.vue.wxml" />
+<import src="/components/img.vue.wxml" />
+<import src="/components/uni-load-more.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate0.vue.wxml" />
+<import src="/common/slots.wxml" />
+<import src="/components/uni-icon/uni-icon.vue.wxml" />
+<import src="/components/uni-badge/uni-badge.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate1.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseVideo.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseAudio.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseImg.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate2.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate3.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate4.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate5.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate6.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate7.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate8.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate9.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate10.vue.wxml" />
+<import src="/components/u-parse1/components/wxParseTemplate11.vue.wxml" />
+
+<template name="M5be8cbc9-default-5be8cbc9-0"><view class="_view M5be8cbc9 cont">SwipeAction 基础使用场景</view></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-1"><view class="_view M5be8cbc9 cont">SwipeAction 禁止滑动展示</view></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-2"><view class="_view M5be8cbc9 cont">使用变量控制SwipeAction的开启状态</view></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-4"><template title="item1" data="{{...$root['0'], ...$root[$kk+'5be8cbc9-3'],$root}}" is="08035f9d"></template></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-6"><template title="item2" data="{{...$root['0'], ...$root[$kk+'5be8cbc9-5'],$root}}" is="08035f9d"></template></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-8"><template title="item3" data="{{...$root['0'], ...$root[$kk+'5be8cbc9-7'],$root}}" is="08035f9d"></template></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-9"><template data="{{...$root['0'], ...$root[$kk+'5be8cbc9-4'],$root, $slotdefault:'M5be8cbc9-default-5be8cbc9-4'}}" is="8e8a65de"></template><template data="{{...$root['0'], ...$root[$kk+'5be8cbc9-6'],$root, $slotdefault:'M5be8cbc9-default-5be8cbc9-6'}}" is="8e8a65de"></template><template data="{{...$root['0'], ...$root[$kk+'5be8cbc9-8'],$root, $slotdefault:'M5be8cbc9-default-5be8cbc9-8'}}" is="8e8a65de"></template></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-11"><template title="item1" data="{{...$root['0'], ...$root[$kk+'5be8cbc9-10'],$root}}" is="08035f9d"></template></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-13"><template title="item2" data="{{...$root['0'], ...$root[$kk+'5be8cbc9-12'],$root}}" is="08035f9d"></template></template>
+
+<template name="M5be8cbc9-default-5be8cbc9-15"><template title="item3" data="{{...$root['0'], ...$root[$kk+'5be8cbc9-14'],$root}}" is="08035f9d"></template></template>
+

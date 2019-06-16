@@ -1,0 +1,237 @@
+.big1 text{
+		font-size: 10upx;
+}
+.big2 text{
+	font-size: 15upx;
+	line-height: 1.2;
+}
+.big3 text{
+	font-size: 20upx;
+	line-height: 1.4;
+}
+.big4 text{
+	font-size: 25upx;
+	line-height: 1.6;
+}
+/* 默认 */
+.big5 text{
+	font-size: 30upx;
+	line-height: 1.8;
+}
+
+.big6 text{
+	font-size: 35upx;
+	line-height: 2;
+}
+.big7 text{
+	font-size: 40upx;
+	line-height: 2.2;
+}
+.big8 text{
+	font-size: 45upx;
+	line-height: 2.4;
+}
+.big9 text{
+	font-size: 50upx;
+	line-height: 2.6;
+}
+.big10 text{
+	font-size: 55upx;
+	line-height: 2.8;
+}
+.big11 text{
+	font-size: 60upx;
+	line-height: 3;
+}
+.big12 text{
+	font-size: 65upx;
+	line-height: 3.2;
+}
+.big13 text{
+	font-size: 70upx;
+	line-height: 3.4;
+}
+
+.big14 text{
+	font-size: 75upx;
+	line-height: 3.6;
+}
+.big15 text{
+	font-size: 80upx;
+	line-height: 3.8;
+}
+.big16 text{
+	font-size: 85upx;
+	line-height: 4.0;
+}
+.big17 text{
+	font-size: 90upx;
+	line-height: 4.2;
+}
+.big18 text{
+	font-size: 95upx;
+	line-height: 4.4;
+}
+.big19 text{
+	font-size: 100upx;
+	line-height: 4.6;
+}
+
+/* 评论框 */
+.commentFooter{
+	box-sizing: border-box;position: fixed;z-index: 999;bottom: 0;left: 0;width: 100%;padding: 0 27upx;
+	background: #fff;
+}
+.commentFooter .content{
+	border: 1upx solid #f1f1f1;box-sizing: border-box;padding: 17upx 21upx;border-radius: 24upx;display: flex;flex-wrap: nowrap;
+}
+.commentFooter .content input{
+	background: #f6f6f6;height: 85upx;font-size: 28upx;width: 100%;padding-left: 24upx;border-radius: 12upx;
+}
+.commentFooter .content .fabu{
+	flex-shrink: 0;width: 92upx;height: 85upx;border-radius: 12upx;font-size: 28upx;color:#fff;background: #ff7f00;display: flex;align-items: center;justify-content: center;
+}
+
+/* 头部信息 */
+.topTemplate{
+	background: #007fff;height: 90upx;width: 100%;display: flex;align-items: center;justify-content: space-between;position: fixed;left: 0;top: var(--status-bar-height);z-index: 90;box-sizing: border-box;padding: 0 32upx;
+}
+.topTemplate .detail{
+	color: #fff;font-size: 32upx;
+}
+.topTemplate .right,.topTemplate .left{
+	
+	width: 90upx;height: 90upx;display: flex;align-items: center;
+}
+.topTemplate .right{
+	justify-content: flex-end;
+}
+.topTemplate .left{
+	justify-content: flex-start;
+}
+.topTemplate .img{
+	width: 41upx;height: 40upx;
+}
+.topTemplate .back{
+	width: 24upx;height: 40upx;
+}
+.topTemplate .rightword{
+	font-size: 32upx;
+	color: #fff;
+}
+
+/* 文章标题 */
+.article_title{
+		line-height:1.4em;font-size: 38upx;width: 100%;padding:30upx 50upx 21upx 50upx;text-align: center;margin-top: 30upx;box-sizing: border-box;font-weight: bold;
+}
+.time_and_count{
+	padding: 0 100upx;display: flex;justify-content: space-between;align-items: center;
+}
+.time_and_count text{
+	font-size: 24upx;
+	color: #777;
+}
+
+/* 互联网采集 */
+.internet .nocode{
+	background: #bbb;
+}
+.internet .y{
+	background: #ff00ff;
+}
+.internet .z{
+	background: #ff7f00;
+}
+.internet .q{
+	background: #00a3d9;
+}
+.internet .h{
+	background: #664c00;
+}
+.internet .p{
+	background: #00b259;
+}
+.internet .n{
+	background: #ff73ff;
+}
+.internet .x{
+	background: #83d944;
+}
+.internet .w{
+	background: #da241d;
+}
+.internet .t{
+	background: #006296;
+}
+.internet .f{
+	background: #00468c;
+}
+.internet .k{
+	background: #0000ff;
+}
+.internet .o{
+	background: #bbb;
+}
+.internet .s{
+	background: #fd3f45;
+}
+.internet .e{
+	background: #07013d;
+}
+
+/* 订阅 */
+.substribe{
+	display: block;
+	width: 58upx;
+	height: 58upx;
+	border-radius: 50%;
+	background: #0280ff;
+	text-align: center;
+	line-height: 58upx;
+	color:#fff;
+}
+.substribe1{
+	display: block;
+	width: 58upx;
+	height: 58upx;
+	line-height: 58upx;
+	text-align: center;
+	color:#fff;
+	border-radius: 50%;
+	background: #ddd;
+}
+
+/* 专家 */
+.leftSty{
+	display: flex;
+	flex: 2;
+	flex-wrap: nowrap;
+	align-items: center;
+}
+.expert{
+	display: flex;
+	flex-wrap: nowrap;align-items: center;padding: 28upx 0;
+	border-bottom: 1upx solid #ddd;
+}
+
+/* 列表图片样式 */
+.list_main{
+	height: 200upx;border-bottom: 1upx solid #f1f1f1;margin-top: 30upx;
+}
+.list_typeimg{
+	width: 39upx;height: 30upx;border: none;border-radius: none;margin-right: 10upx;margin-left: 10upx;flex-shrink: 0;
+}
+.list_ping{
+	width: 33upx;height: 31upx;border: none;margin-right: 5upx;
+}
+/* 订阅 */
+.list_order{
+	background: #1186fd;
+}
+
+/* 版权 */
+.copyright{
+		color: grey;
+		padding: 10upx 0;
+		padding-bottom: 20upx;
+	}
